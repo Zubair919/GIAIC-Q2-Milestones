@@ -1,1 +1,1 @@
-# GIAIC-Q2-Milestones
+# GIAIC-Q2-Hackathon-Milestones
